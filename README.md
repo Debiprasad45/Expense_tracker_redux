@@ -1,2 +1,8 @@
-# Expense_tracker_redux
-Creating a expense tracker with redux/toolkit
+# expense-tracker
+
+## Getting started 
+
+```bash
+npm i
+npm start
+```
